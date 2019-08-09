@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#f0deff"
+    android:layout_height="match_parent"
+    tools:context="rcew.metroroutes.Infometro">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="480dp"
+android:gravity="center"
+        android:textSize="18dp"
+ android:textColor="#000"
+        android:textStyle="normal"
+        android:text="Jaipur Metro is a rapid transit system in the city of Jaipur, Rajasthan, India.
+        Construction on the mostly elevated part of the first line, called Phase 1A, comprising 9.63 kilometres
+        (5.98 mi) of route from Mansarovar to Chandpole Bazaar, started on 13 November 2010. After receiving safety
+         clearance from Commissioner of Metro Rail Safety (CMRS) in May 2015, Jaipur Metro began commercial service between
+          Chandpole and Mansarovar on 3 June 2015.The Jaipur Metro Rail system is India's sixth metro rail system after
+          those in Kolkata, Delhi NCR, Bangalore, Gurgaon and Mumbai. It is also touted as one of the fastest built metro
+          systems in India.Jaipur Metro is the first metro in India to run on Double-storey elevated road and Metro track." />
+</LinearLayout>
